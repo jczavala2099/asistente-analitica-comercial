@@ -89,3 +89,9 @@ El dataset contiene una orden por producto, por lo que no siempre es posible det
 Por esta razon, la tool `analizar_productos_comprados_juntos` primero intenta encontrar pares dentro de la misma orden. Si no encuentra ordenes multiproducto, usa una aproximacion basada en historial del cliente: productos comprados por el mismo cliente en diferentes ordenes.
 
 Esta decision evita inventar informacion y mantiene la trazabilidad del analisis.
+
+## Link publico de la app
+
+La aplicacion Streamlit esta disponible en:
+
+https://apzqrgnguimixpf8dfvudr.streamlit.app/
