@@ -1,0 +1,7 @@
+﻿streamlit
+pandas
+python-dotenv
+fastmcp
+langchain
+langchain-openai
+openai
