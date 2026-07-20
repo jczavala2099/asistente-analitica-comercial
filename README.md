@@ -70,7 +70,7 @@ python mcp_server.py
 Endpoint local:
 
 ```text
-http://localhost:8000/mcp
+https://asistente-analitica-comercial-production.up.railway.app/mcp
 ```
 
 ## Limitaciones
@@ -79,8 +79,8 @@ El dataset contiene ordenes, clientes y productos, pero no contiene inventario r
 
 ## Entrega
 
-- Repositorio GitHub: pendiente
-- App Streamlit: pendiente
+- Repositorio GitHub: https://github.com/jczavala2099/asistente-analitica-comercial
+- App Streamlit: https://asistente-anlitic-jcz.streamlit.app/
 
 ## Nota sobre productos comprados juntos
 
